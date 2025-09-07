@@ -137,7 +137,8 @@ for name, group in groups:
     plt.show()
 
     # Write the results to an Excel file
-#result_df.to_excel('result_final.xlsx', index=False)
+result_df.to_excel('result_final.xlsx', index=False)
+
 
 
 
